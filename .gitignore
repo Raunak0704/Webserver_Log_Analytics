@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+local_output/
+reports/*.xlsx
+reports/*.csv
+data/generated/*
+!data/generated/.gitkeep
+.DS_Store
+Thumbs.db
